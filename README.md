@@ -5,3 +5,6 @@ system.  Via the dashboard, I have the option to upload material of my own.  I h
 of work submitted to work downloaded, which I need to keep at a certain level to continue
 downloading resources.  This ensures that I help foster an environment of learning
 by both learning from others and teaching.
+
+Gitter: https://gitter.im/MVP_bits_please/Lobby
+(Possibly Temporary, May Not Be The Correct One)
